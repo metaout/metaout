@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hello](https://github.com/metaout/GeometryProcessing/blob/main/images/Hello.gif)
 
 <!--
 **metaout/metaout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
